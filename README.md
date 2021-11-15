@@ -1,9 +1,9 @@
-**Discord server: https://discord.gg/K5xUbuDqmG**
+**Discord server: COMING SOON**
 
 # Blooket-Hack
 All of the cheats are based on a game mode.
 
-**If anything isn't working please make a issue: https://github.com/glixzzy/blooket-hack/issues**
+**If anything isn't working please make a issue: https://github.com/Jaydo-Coder/blooket-hack/issues**
 
 # How to run
 
@@ -11,7 +11,7 @@ note: **TURN YOUR AD BLOCKER OFF OR IT WON'T WORK!**
 
 Open console and paste this: 
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/main.js")
+fetch("https://raw.githubusercontent.com/Jaydo-Coder/blooket-hack/main/main.js")
 .then((res) => res.text()
 .then((t) => eval(t)))
 ```
