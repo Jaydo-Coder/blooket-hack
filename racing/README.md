@@ -6,5 +6,5 @@ This cheat only works in racing game mode!
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/racing/instantWin.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/Jaydo-Coder/blooket-hack/main/racing/instantWin.js").then((res) => res.text().then((t) => eval(t)))
 ```
